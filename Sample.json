@@ -1,0 +1,78 @@
+[
+    {
+        {
+            {
+                {
+                    "name": "Nicole Jacobson",
+                    "weight": 16.9,
+                    "age": 6,
+                    "id": 1
+                },
+                {
+                    "name": "Chad Hurst",
+                    "weight": 17.4,
+                    "age": 6,
+                    "id": 2
+                }
+            },
+            {
+                {
+                    "name": "Mr. John Ferguson",
+                    "weight": 17.4,
+                    "age": 6,
+                    "id": 3
+                },
+                {
+                    "name": "Diamond Johnson",
+                    "weight": 17.5,
+                    "age": 6,
+                    "id": 3
+                }
+            },
+            {    
+                {
+                    "name": "Laura Hemandez",
+                    "weight": 18.2,
+                    "age": 6,
+                    "id": 4
+                },
+                {
+                    "name": "Caitlin Jones",
+                    "weight": 18.2,
+                    "age": 6,
+                    "id": 5
+                }
+            },
+        },
+        {
+            {
+                {
+                    "name": "Joseph Black",
+                    "weight": 18.2,
+                    "age": 7,
+                    "id": 6
+                },
+                {
+                    "name": "Haley Williams",
+                    "weight": 18.4,
+                    "age": 7,
+                    "id": 7
+                }
+            },
+            {
+                {
+                    "name": "Angela Stevens",
+                    "weight": 18.7,
+                    "age": 7,
+                    "id": 8
+                },
+                {   
+                    "name": "Lindsay Lewis",
+                    "weight": 19.3,
+                    "age": 7,
+                    "id": 9
+                }
+            }
+        }
+    }
+]
